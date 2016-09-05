@@ -1,0 +1,25 @@
+{
+  "name": "typescript-firstknockout",
+  "version": "1.0.0",
+  "description": "https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages/tutorials/Knockout.md https://blogs.msdn.microsoft.com/typescript/2016/06/15/the-future-of-declaration-files/",
+  "main": "index.js",
+  "dependencies": {
+    "@types/knockout": "^3.4.33",
+    "@types/lodash": "^4.14.34",
+    "typescript": "^2.1.0-dev.20160905"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javinovo/typescript-firstknockout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javinovo/typescript-firstknockout/issues"
+  },
+  "homepage": "https://github.com/javinovo/typescript-firstknockout#readme"
+}
